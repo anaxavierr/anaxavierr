@@ -8,7 +8,7 @@ hi, i'm [Ana Xavier](https://www.linkedin.com/in/anaxavier-tech/), a Passionate 
 
 **languages and tools:**  
 
-<code><img height="20" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
