@@ -8,46 +8,30 @@ hi, i'm [Ana Xavier](https://www.linkedin.com/in/anaxavier-tech/), a Passionate 
 
 **languages and tools:**  
 
-<code><img height="20" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png"></code>
-<code><img height="20" src="https://www.sophos.com/sites/default/files/2022-02/aws-logo-white-orange.png"></code>
-<code><img height="20" src="https://logowik.com/content/uploads/images/dbt5596.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="left">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png" alt="react" width="25" height="25" />
+<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="angular-js" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://assets.reviews.omr.com/nwmjnuuj5trdi41if3vf792w0dq8" alt="vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="python" width="25" height="25" />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" alt="nginx" width="25" height="25" />
+<img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png" alt="Go" width="25" height="25" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=anaxavier&show_icons=true&theme=gotham" alt="anaxavier" />
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```txt
-TypeScript       5 hrs 40 mins   █████████████████████▓░░░   86.25 %
-JavaScript       29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-JSON             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Other            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Ezhil            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-```
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/anaxavier-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
