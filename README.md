@@ -10,7 +10,7 @@ hi, i'm [Ana Xavier](https://www.linkedin.com/in/anaxavier-tech/), a Passionate 
 
 <code><img height="20" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png"></code>
 <code><img height="20" src="https://www.sophos.com/sites/default/files/2022-02/aws-logo-white-orange.png"></code>
-<code><img height="20" src="https://blueorange.digital/wp-content/uploads/2022/12/BOD-dbt-logo.png"></code>
+<code><img height="20" src="https://logowik.com/content/uploads/images/dbt5596.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
