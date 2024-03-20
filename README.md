@@ -1,10 +1,12 @@
-hi, i'm [Ana Xavier](https://www.linkedin.com/in/anaxavier-tech/), a passionate about data (and coffee, lots of coffee!), I'm always learning about the latest innovations in the field. I have skills in technologies such as Databases, Data Warehousing, Data Lake, Airflow, Python, SQL, AWS, DBT, and agile methodologies. My work with DBT, which was particularly notable, has provided me with many valuable learnings, from advanced data modeling and analytics engineering techniques to social and interpersonal skills such as clear communication and collaboration.
+ei, eu sou a [Ana Xavier](https://www.linkedin.com/in/anaxavier-tech/), aficionada em dados (e café, muito café!), busco constantemente aprender sobre as mais recentes inovações da área. Tenho experiência em projetar e desenvolver infraestrutura de dados, integração de dados, limpeza e preparação de dados, desenvolvimento de modelos de dados, e desenvolvimento de ferramentas e aplicações usando tecnologias como AWS, GCP, Azure, DBT, Airflow, Python e SQL.
+
+Alguns de meus desafios foram trabalhar com clientes de diversos setores e portes, entregando valor e insights por meio de dados. Além de implementar e manter pipelines de dados robustos e escaláveis, também contribuí para o desenvolvimento de ferramentas e aplicações que facilitavam o acesso e a visualização dos dados, melhoria contínua dos processos e padrões de qualidade, e para a disseminação das melhores práticas e conhecimentos entre a equipe. Um dos meus principais diferenciais foi a minha atuação com o DBT, uma ferramenta de transformação de dados que me permitiu aplicar técnicas e práticas avançadas de modelagem de dados e engenharia analítica, além de desenvolver habilidades sociais e interpessoais, como comunicação clara e colaboração.
 
 
   <img src="https://i.gifer.com/5eKX.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 349px; margin: 0px; width: 465px;" alt="Programmers coding GIF en GIFER - de Shakagami" jsname="kn3ccd" />
   
-- 💼 my contact, [email](mailto:anaxavier.tech@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 meu contato, [email](mailto:anaxavier.tech@gmail.com) :)
+- 💬 me pergunte sobre qualquer coisa, estou feliz em ajudar;
 
 **languages and tools:**  
 
@@ -24,7 +26,7 @@ hi, i'm [Ana Xavier](https://www.linkedin.com/in/anaxavier-tech/), a passionate 
 
 
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Vamos conectar?!**
 <p align="left">
 <a href="https://www.linkedin.com/in/anaxavier-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
